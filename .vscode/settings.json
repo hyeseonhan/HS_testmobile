@@ -1,0 +1,10 @@
+{
+    "workbrench.colorTheme": "Visual Studio Light",
+    "editior.tabSize": 2,
+    "editor.formatOnSave" : true,
+    "[typescript]" : {
+        "editor.formatOnPaste" : true,
+        "editor.formatOnSave" : true,
+        "editor.defaultFormatter" : "esbenp.prettier-vscode"
+    },
+}
